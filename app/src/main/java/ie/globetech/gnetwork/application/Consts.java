@@ -9,7 +9,7 @@ public class Consts {
      * Application-wide consts
      */
     //public static final String APPLICATION_PACKAGE = "ie.globetech.gnetwork";
-    public static final String APPLICATION_PACKAGE = "ie.globetech.gticket.acsecurity";
+    public static final String APPLICATION_PACKAGE = "ie.globetech.gnetwork";
     public static final String APPLICATION_SERVICE_ACTION = APPLICATION_PACKAGE + ".action";
     public static final String APPLICATION_SERVICE_RESULT = APPLICATION_PACKAGE + ".serviceresult";
     public static final String APPLICATION_PATH = "/data/data/" + APPLICATION_PACKAGE;
