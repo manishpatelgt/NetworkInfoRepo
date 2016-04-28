@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:visible="false"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_total"
+        android:orderInCategory="100"
+        android:title="Total Usage"
+        android:visible="false"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bal"
+        android:orderInCategory="100"
+        android:title="Get Balance"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_data"
+        android:orderInCategory="100"
+        android:title="Get Data Usage"
+        app:showAsAction="never" />
+
+</menu>

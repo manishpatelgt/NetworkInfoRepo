@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Data Usage Info</string>
+    <string name="action_settings">App Usage</string>
+
+    <string name="uri_scheme">ussd</string>
+    <string name="uri_authority">cd</string>
+    <string name="uri_path">/</string>
+    <string name="uri_param_name">uval</string>
+
+    <string name="test">This service enables data usage info to show you balance and data usage.</string>
+</resources>

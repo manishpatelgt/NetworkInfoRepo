@@ -1,2 +1,2 @@
 # NetworkInfoRepo
-Get application internet datausage and balance info
+Application for getting internet datausage and balance info
